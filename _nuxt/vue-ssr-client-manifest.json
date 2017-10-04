@@ -1,5 +1,5 @@
 {
-  "publicPath": "/_nuxt/",
+  "publicPath": "/vue-first/_nuxt/",
   "all": [
     "5.nuxt.bundle.b4adb771190ef538b949.js",
     "img/1.d8c3641.jpg",
@@ -27,8 +27,8 @@
     "7.nuxt.bundle.94d01a1b0cfd2b258e92.js",
     "8.nuxt.bundle.461b49d5486cb27fe06f.js",
     "vendor.bundle.147e50c96c6ec672bd5e.js",
-    "nuxt.bundle.e55888f4d605bff0abb7.js",
-    "manifest.731c23c0408958e83453.js",
+    "nuxt.bundle.d82bd30ced9041dadad8.js",
+    "manifest.7a8f1701d4305ef97cca.js",
     "0.nuxt.bundle.9c3f859fe85fd47d20c4.js.map",
     "1.nuxt.bundle.5ea5f990911657ca1a14.js.map",
     "2.nuxt.bundle.5bcd7200a463fe0d039f.js.map",
@@ -39,15 +39,15 @@
     "7.nuxt.bundle.94d01a1b0cfd2b258e92.js.map",
     "8.nuxt.bundle.461b49d5486cb27fe06f.js.map",
     "vendor.bundle.147e50c96c6ec672bd5e.js.map",
-    "nuxt.bundle.e55888f4d605bff0abb7.js.map",
-    "manifest.731c23c0408958e83453.js.map",
+    "nuxt.bundle.d82bd30ced9041dadad8.js.map",
+    "manifest.7a8f1701d4305ef97cca.js.map",
     "index.ssr.html",
     "index.spa.html"
   ],
   "initial": [
-    "manifest.731c23c0408958e83453.js",
+    "manifest.7a8f1701d4305ef97cca.js",
     "vendor.bundle.147e50c96c6ec672bd5e.js",
-    "nuxt.bundle.e55888f4d605bff0abb7.js"
+    "nuxt.bundle.d82bd30ced9041dadad8.js"
   ],
   "async": [
     "5.nuxt.bundle.b4adb771190ef538b949.js",
