@@ -1,3 +1,3 @@
 # STATIC
-
- https://tomasgi.github.io/vue-first/
+LIVE DEMO:
+https://tomasgi.github.io/vue-first/
